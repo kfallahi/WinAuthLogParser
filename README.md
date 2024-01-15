@@ -2,7 +2,7 @@
 
 
 WinAuthLogParser is a powerful Digital Forensics and Incident Response tool designed specifically for analyzing Windows authentication Event Logs.
-It helps a lot in responding to incidents, allowing users to quickly and thoroughly understand security events on Windows systems.
+It works by parsing security events with IDs 4624 and 4625. It helps a lot in responding to incidents, allowing users to quickly and thoroughly understand security events on Windows systems.
 It's not just for Incident Responders; it's useful for Red Team Operators and the whole InfoSec community, being a valuable asset on Windows platforms.
 
 - As an **Incident Responder**, you can find and investigate all successful and failed logons.
